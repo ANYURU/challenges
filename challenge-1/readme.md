@@ -20,5 +20,11 @@ A number is considered a **Disarium** if the sum of its digits powered with thei
 > I implemented this solution using js
 >
 
->#### Running Tests
+>
+>#### Tests
+>For runnung tests:
+>Uncomment the line below in "disarium.tests.js" and run the command below while "challenge-1" directory: 
+> > npm test
+>![Tests](media/images/dis.png)
+> 
 
