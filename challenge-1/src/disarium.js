@@ -19,6 +19,4 @@ const IS_DISARIUM = (input) => {
 }
 
 // Uncomment the line below to run the tests 
-// module.exports = IS_DISARIUM
-
-    
+module.exports = IS_DISARIUM
